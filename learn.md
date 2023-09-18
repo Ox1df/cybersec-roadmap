@@ -30,30 +30,25 @@
 - Follow the Git Immersion tutorial: http://gitimmersion.com
 - Try Git: https://try.github.io
 
-## Day 64-70: ELK
-- Follow the ELK Stack Tutorial on Logz.io: https://logz.io/learn/complete-elk-stack-tutorial/
-- Browse through the ELK Stack tutorials on Elastic: https://elastic.co/learn/elastic-stack
+## Day 64-70: Labs
+- pratice labs in tryhackme.com
+- port swigger: https://portswigger.net/web-security/all-labs
+- htb: https://www.hackthebox.com/
 
-## Day 71-77: AWS
-- Explore the AWS Getting Started Resource Center: https://aws.amazon.com/getting-started/
-- Browse through the AWS Tutorials: https://aws.amazon.com/tutorials/
+## Day 71-77: bash
+- https://learn-bash.org/
+- https://www.freecodecamp.org/news/tag/bash/
 
-## Day 78-84: Azure
-- Read the Introduction to Microsoft Azure: https://bowtiedcyber.substack.com/p/introduction-to-microsoft-azure
-- Go through Azure Fundamentals: https://docs.microsoft.com/en-us/learn/azure/
+## Day 78-84: web pentesting
+- https://www.youtube.com/watch?v=2_lswM1S264
 
 ## Day 85-90: Hacking
 - Practice on Cyber Talents: https://cybertalents
 - Try to hack the challenges on Hack the Box: https://hackthebox.com
 - Practice on vulnerable machines on Vulnhub: https://vulnhub.com
-## Day 91-92: One Page Resume
-- Use the provided resume template: https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii
-- Cybersecurity Resume Template from Hiration: https://www.hiration.com/resume-templates/cybersecurity-resume-template/
-  This template is specifically designed for cybersecurity professionals and includes sections for skills, certifications, and professional experience, along with a summary   and a skills section.
-- Cybersecurity Resume from MyPerfectResume: https://www.myperfectresume.com/resume-templates/cybersecurity
- This template is also designed for cybersecurity professionals and includes sections for skills, certifications, and experience, along with a summary, and a section for    education.
-- Cybersecurity Resume from Resume-Now: https://www.resume-now.com/templates/cyber-security-resume
- This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical   skills.
-## Day 93-95: Where and How to Apply
-Search for jobs on Indeed: https://indeed.com
-Look for opportunities on LinkedIn: https://linkedin.com
+- https://www.hacksplaining.com/
+
+## Day 91-95: try to solve ctfs 
+- https://picoctf.org/
+- https://ctftime.org/
+  
